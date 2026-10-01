@@ -1,0 +1,6 @@
+{
+  "name": "NeuroSurgical AI - Brain Tumor Detection & Localization Architecture",
+  "description": "Final-Year BE Computer Engineering Project: AI-assisted brain tumor detection, localization, and surgical planning decision support system architecture and modular blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
